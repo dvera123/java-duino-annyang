@@ -1,0 +1,9 @@
+.hide{display:none;}
+body{
+	background-color: #ccc;
+}
+.text{
+	font-size: 100px;
+	text-align: center;
+	color: red;
+}

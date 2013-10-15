@@ -1,0 +1,5 @@
+var validate = {
+		init: function(){
+			
+		}
+};
